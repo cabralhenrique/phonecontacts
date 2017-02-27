@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+FN:Joao Paulo
+EMAIL;PREF:joaopaulocascalho@gmail.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:2.1
+FN:Barbie
+TEL;CELL:+351 910 195 367
+TEL;WORK:+32488888888
+EMAIL;PREF:barbiekent@gmail.com
+END:VCARD
